@@ -1,0 +1,10 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\bin\Debug\Assignment2-1004.exe.config
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\bin\Debug\Assignment2-1004.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\bin\Debug\Assignment2-1004.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2-1004.csprojResolveAssemblyReference.cache
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2_1004.Properties.Resources.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2-1004.csproj.GenerateResource.Cache
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2-1004.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2-1004.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2_1004.AboutForm.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\Assignment2-1004\Assignment2-1004\obj\Debug\Assignment2_1004.SharpAutoForm.resources
